@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 sjdfldsfljksdljsdksfd :)
 
 :) - Hi I'm Ben
@@ -6,4 +7,12 @@ Hahahahahhahahaha
 =======
 sjdfldsfljksdljsdksfd
 Hiouhdiu
+>>>>>>> Stashed changes
+=======
+<<<<<<< HEAD
+sjdfldsfljksdljsdksfd
+Changed by Ela 
+=======
+sjdfldsfljksdljsdksfd :)
+>>>>>>> 555a2ba119d80e46a8e36707a1b42cd12999d1fc
 >>>>>>> Stashed changes
