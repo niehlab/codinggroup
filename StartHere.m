@@ -1,4 +1,4 @@
-% Pick mouse of interest (Gria4 or Stargazer):)
+% Pick mouse of interest (Gria4 or Stargazer):) <3
 mouse = 'Gria4'; % specify the mouse model in format mouse = 'Gria'; 
 %mouse = 'Stargazer'; 
 addpath '/media/elaX/intanData/ela/individualExperimentDataBase/2024_09_25__12_57_00'; % path to database 
